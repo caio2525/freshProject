@@ -58,5 +58,5 @@ Seu servidor deverá estar rodando http://127.0.0.1:5000/
    yarn start
    ```
 
-Abra http://localhost:3000 com seu navegador para interagir com a aplicação.
+Espere até que a aplicação abra no navegador ou Abra http://localhost:3000 com seu navegador para interagir com a aplicação.
 O servidor backend deve ser iniciado antes para que você possa interagir com sucesso com a aplicação.
