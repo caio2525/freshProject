@@ -35,10 +35,11 @@ Para fazer o projeto rodar localmente na sua máquina siga os passos de instala�
     ```sh
    pip install -r requirements.txt
    ```
+   
 4. Inicie o servidor
    ```sh
-  python main.py
-  ```
+   python main.py
+   ```
 Seu servidor deverá estar rodando http://127.0.0.1:5000/
 
 ### Frontend Setup
