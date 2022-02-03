@@ -17,7 +17,7 @@ Para fazer o projeto rodar localmente na sua máquina siga os passos de instala�
 
 ### Backend Setup
 
-1. Clone o repositório Backend
+1. Clone o repositório Backend e navegue para dentro dele
   ```sh
    git clone https://github.com/caio2525/freshBack.git
    ```
@@ -43,7 +43,7 @@ Para fazer o projeto rodar localmente na sua máquina siga os passos de instala�
 Seu servidor deverá estar rodando http://127.0.0.1:5000/
 
 ### Frontend Setup
-1. Clone o repositório frontEnd
+1. Clone o repositório frontEnd e navegue para dentro dele
   ```sh
    git clone https://github.com/caio2525/freshfront.git
    ```
