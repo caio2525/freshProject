@@ -1,7 +1,10 @@
 ## About The Project
 Aplicação CRUD utilizando a seguinte stack de tecnologias:
+
 Front-End: React JS
+
 API: Python Flask
+
 Banco de Dados: MongoDb
 
 Video: https://www.awesomescreenshot.com/video/7194554?key=65ae70b59c408f5bc5373fe2e67ef429
